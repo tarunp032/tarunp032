@@ -34,3 +34,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&locale=en" alt="tarunp032" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunp032&" alt="tarunp032" /></p>
+
+<div align="center">
+
+## 🛠️ Support
+
+🎁 Contributions ([GitHub Flow](https://guides.github.com/introduction/flow/)), 🔥 issues, and 🍪 feature requests are most welcome!
+
+💙 If you like my projects, Give them ⭐ and Share it with friends!
+
+---
+
+Made with ❤️ in India
+
+---
+
+⚡ **Stay Connected!!** ⚡
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Programming" style="max-width: 100%;" />
+
+</div>
+
+
+
