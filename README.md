@@ -22,6 +22,7 @@
 <a href="https://twitter.com/tarunprajapat32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarunprajapat32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarun-prajapat-468298253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-prajapat-468298253" height="30" width="40" /></a>
 <a href="https://instagram.com/its_tarun032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_tarun032" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tarun_p032" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarun_p032" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@prajapattarun751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prajapattarun751" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tarun032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarun032" height="30" width="40" /></a>
 </p>
@@ -56,6 +57,3 @@ Made with ❤️ in India
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Programming" style="max-width: 100%;" />
 
 </div>
-
-
-
