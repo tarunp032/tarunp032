@@ -11,6 +11,12 @@
 
 - 🔭My projects are available here [https://github.com/tarunp032/React_Quiz_App](https://github.com/tarunp032/React_Quiz_App)
 
+- 🔭My projects are available here [https://github.com/tarunp032/Edusity](https://github.com/tarunp032/Edusity)
+
+- 🔭My projects are available here [https://github.com/tarunp032/MindMeld-AI](https://github.com/tarunp032/MindMeld-AI)
+ 
+- 🔭My projects are available here [https://github.com/tarunp032/CloneZone-Amazon](https://github.com/tarunp032/CloneZone-Amazon)
+
 - 💬 Ask me about **DSA, MERN Stack, C++, HTML , C , CSS ,Git/GitHub and Linux**
 
 - 📫 How to reach me **prajapattarun7568@gmail.com**
