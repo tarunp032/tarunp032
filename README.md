@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 🔭My projects are available here [https://github.com/tarunp032/ATM-System-CProject](https://github.com/tarunp032/ATM-System-CProject)
+- 🔭My projects are available here [https://github.com/tarunp032/React_Quiz_App](https://github.com/tarunp032/React_Quiz_App)
 
 - 💬 Ask me about **DSA, MERN Stack, C++, HTML , C , CSS ,Git/GitHub and Linux**
 
