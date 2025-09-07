@@ -1,4 +1,5 @@
 <p align="center">
+  <!-- Header GIF -->
   <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="MasterHead" />
 </p>
 
@@ -6,6 +7,7 @@
 <h3 align="center">A Passionate Full Stack Developer Intern from India 💻</h3>
 
 <p align="center">
+  <!-- Coding GIF -->
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </p>
 
@@ -35,31 +37,27 @@
 
 ### 💻 Languages & Tools
 <p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" title="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40" title="Jest"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=radical" alt="tarunp032 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&theme=radical" alt="tarunp032 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=highcontrast" alt="tarunp032 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&theme=highcontrast" alt="tarunp032 top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunp032&theme=radical" alt="tarunp032 streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunp032&theme=highcontrast" alt="tarunp032 streak stats" />
 </p>
 
 ---
@@ -80,6 +78,8 @@
 If you like my projects ⭐, open an issue 🐛, or fork 🍴 them!  
 
 Made with ❤️ in India  
+
 <p align="center">
+  <!-- Both GIFs will auto-play -->
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Programming" style="max-width: 100%;" />
 </p>
