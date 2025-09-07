@@ -22,26 +22,24 @@
 
 ### 🚀 Projects
 
-<table>
-  <tr>
-    <!-- Left side: Projects table -->
-    <td valign="top">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
+<!-- Left: Projects table -->
+<div>
 | Project | Description | Link |
 |---------|-------------|------|
 | React Quiz App | Interactive quiz application built with React | [GitHub](https://github.com/tarunp032/React_Quiz_App) |
 | Edusity | Online learning platform | [GitHub](https://github.com/tarunp032/Edusity) |
 | MindMeld-AI | AI chatbot using NLP | [GitHub](https://github.com/tarunp032/MindMeld-AI) |
 | CloneZone-Amazon | Amazon clone project | [GitHub](https://github.com/tarunp032/CloneZone-Amazon) |
+</div>
 
-    </td>
+<!-- Right: GIF -->
+<div>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding GIF" />
+</div>
 
-    <!-- Right side: GIF -->
-    <td valign="top" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
