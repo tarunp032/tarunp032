@@ -7,11 +7,6 @@
 <h3 align="center">A Passionate Full Stack Developer Intern from India 💻</h3>
 
 <p align="center">
-  <!-- Coding GIF -->
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarunp032&label=Profile%20views&color=0e75b6&style=flat" alt="tarunp032" />
 </p>
 
@@ -19,9 +14,16 @@
 
 ### 🌱 About Me
 - 🔭 I’m currently learning **MERN Full Stack Development**
-- 💬 Ask me about **DSA, MERN Stack, C++, HTML, CSS, Git/GitHub & Linux**
+- 💬 Ask me about **MERN Stack, HTML, CSS, Git/GitHub & Linux**
 - ⚡ Fun fact: **I am a Neophile!**
 - 📫 Reach me: **[prajapattarun7568@gmail.com](mailto:prajapattarun7568@gmail.com)**
+
+---
+
+<p align="center">
+  <!-- Coding GIF -->
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
 
 ---
 
