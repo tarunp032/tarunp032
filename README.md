@@ -20,20 +20,28 @@
 
 ---
 
-<p align="center">
-  <!-- Coding GIF -->
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</p>
-
----
-
 ### 🚀 Projects
+
+<table>
+  <tr>
+    <!-- Left side: Projects table -->
+    <td valign="top">
+
 | Project | Description | Link |
 |---------|-------------|------|
 | React Quiz App | Interactive quiz application built with React | [GitHub](https://github.com/tarunp032/React_Quiz_App) |
 | Edusity | Online learning platform | [GitHub](https://github.com/tarunp032/Edusity) |
 | MindMeld-AI | AI chatbot using NLP | [GitHub](https://github.com/tarunp032/MindMeld-AI) |
 | CloneZone-Amazon | Amazon clone project | [GitHub](https://github.com/tarunp032/CloneZone-Amazon) |
+
+    </td>
+
+    <!-- Right side: GIF -->
+    <td valign="top" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,6 +90,6 @@ If you like my projects ⭐, open an issue 🐛, or fork 🍴 them!
 Made with ❤️ in India  
 
 <p align="center">
-  <!-- Both GIFs will auto-play -->
+  <!-- Bottom GIF -->
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Programming" style="max-width: 100%;" />
 </p>
