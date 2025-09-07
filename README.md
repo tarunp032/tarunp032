@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Header GIF -->
-  <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="MasterHead" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Tarun Prajapat</h1>
 <h3 align="center">A Passionate Full Stack Developer Intern from India 💻</h3>
 
