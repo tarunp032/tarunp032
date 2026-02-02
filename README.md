@@ -45,14 +45,9 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tarunp032&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=tarunp032&theme=highcontrast)
 
 ---
 
