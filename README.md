@@ -47,26 +47,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=highcontrast&hide_border=true" 
-    alt="Tarun Prajapat GitHub Stats" 
-  />
-</p>
+![Tarun Prajapat GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=highcontrast)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&theme=highcontrast&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&theme=highcontrast)
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tarunp032&theme=highcontrast&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=tarunp032&theme=highcontrast)
 
 
 ---
