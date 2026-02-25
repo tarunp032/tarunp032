@@ -14,7 +14,7 @@
 
 ### 🌱 About Me
 - 🔭 I’m currently learning **MERN Full Stack Development**
-- 💬 Ask me about **DSA, MERN Stack, C++, HTML, CSS, Git/GitHub & Linux**
+- 💬 Ask me about **MERN Stack, HTML, CSS, Git/GitHub & Linux**
 - ⚡ Fun fact: **I am a Neophile!**
 - 📫 Reach me: **[prajapattarun7568@gmail.com](mailto:prajapattarun7568@gmail.com)**
 
