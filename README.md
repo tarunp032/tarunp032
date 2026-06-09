@@ -13,9 +13,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tarunp032&label=Profile+Views&color=C9A84C&style=for-the-badge&logo=eye" />
+[![Profile Views](https://komarev.com/ghpvc/?username=tarunp032&label=Profile+Views&color=C9A84C&style=for-the-badge)](https://github.com/tarunp032)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/tarunp032?label=Followers&style=for-the-badge&color=C9A84C&labelColor=0a0e1a&logo=github)](https://github.com/tarunp032)
+[![GitHub followers](https://img.shields.io/github/followers/tarunp032?label=Followers&style=for-the-badge&color=C9A84C&labelColor=0a0e1a&logo=github&logoColor=white)](https://github.com/tarunp032)
 
 </div>
 
