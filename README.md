@@ -19,13 +19,15 @@
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a12,100:0b3d2e&height=3&width=1000"/>
+</div>
+
 <br>
 
 ## ◈ &nbsp;About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 ```yaml
 Name        : Tarun Prajapat
@@ -39,14 +41,9 @@ Motto       : "Data doesn't speak until you ask it the right question."
 Contact     : prajapattarun7568@gmail.com
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+<img width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<img width="90%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -54,19 +51,19 @@ Contact     : prajapattarun7568@gmail.com
 
 <div align="center">
 
-### ⬡ &nbsp;Data Visualization & BI
+**Data Visualization & BI**
 
 <img src="https://img.shields.io/badge/Power%20BI-013220?style=for-the-badge&logo=powerbi&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/Tableau-013220?style=for-the-badge&logo=tableau&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/Excel-013220?style=for-the-badge&logo=microsoftexcel&logoColor=C9A227"/>
 
-### ⬡ &nbsp;Data & Query
+**Data & Query**
 
 <img src="https://img.shields.io/badge/SQL-013220?style=for-the-badge&logo=mysql&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/MySQL-013220?style=for-the-badge&logo=mysql&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/Python-013220?style=for-the-badge&logo=python&logoColor=C9A227"/>
 
-### ⬡ &nbsp;Process, Design & Delivery
+**Process, Design & Delivery**
 
 <img src="https://img.shields.io/badge/Jira-013220?style=for-the-badge&logo=jira&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/Agile-013220?style=for-the-badge&logo=scrumalliance&logoColor=C9A227"/>
@@ -76,7 +73,15 @@ Contact     : prajapattarun7568@gmail.com
 
 </div>
 
+<br>
+
 > 🐍 **Note:** Python is currently being learned to strengthen data automation, analysis, and reporting for Business Analytics — not yet applied in shipped projects.
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a12,100:0b3d2e&height=3&width=1000"/>
+</div>
 
 <br>
 
@@ -84,11 +89,7 @@ Contact     : prajapattarun7568@gmail.com
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Executive Sales Dashboard
+### 📊 &nbsp;Executive Sales Dashboard
 **Power BI · DAX · Forecasting**
 
 Executive-level Sales Dashboard with DAX measures, KPI analysis, interactive visualizations, business insights, and 15-day sales forecasting on the SuperStore dataset.
@@ -97,10 +98,9 @@ Executive-level Sales Dashboard with DAX measures, KPI analysis, interactive vis
 
 [**→ View Repository**](https://github.com/tarunp032/Executive-Sales-Dashboard)
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### 📱 PhonePe Pulse Analytics Dashboard
+### 📱 &nbsp;PhonePe Pulse Analytics Dashboard
 **Power BI · DAX · Transaction Analytics**
 
 Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, DAX measures, custom tooltips, and deep business insights.
@@ -109,14 +109,16 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 
 [**→ View Repository**](https://github.com/tarunp032/PhonePe-Pulse-Analytics-Dashboard)
 
-</td>
-</tr>
-</table>
+<br>
+
+<sub>More case studies and dashboards in progress — this section will keep growing 🚀</sub>
 
 </div>
 
+<br>
+
 <div align="center">
-<sub>More case studies and dashboards in progress — this section will keep growing 🚀</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a12,100:0b3d2e&height=3&width=1000"/>
 </div>
 
 <br>
@@ -131,12 +133,16 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 &nbsp;
 ![Joined](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tarunp032&label=Joined&query=created_at&color=C9A227&style=for-the-badge&labelColor=001a12&logo=github&logoColor=C9A227)
 
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunp032&bg_color=001a12&color=C9A227&line=C9A227&point=F0E6D2&area=true&hide_border=false&border_color=C9A227"/>
+
 </div>
 
+<br>
+
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunp032&bg_color=001a12&color=C9A227&line=C9A227&point=F0E6D2&area=true&hide_border=false&border_color=C9A227)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a12,100:0b3d2e&height=3&width=1000"/>
 </div>
 
 <br>
@@ -145,7 +151,7 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 
 <div align="center">
 
-<img width="120" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+<img width="100" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 <br><br>
 
@@ -161,7 +167,7 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,50:013220,100:0b3d2e&height=100&section=footer&fontColor=C9A227"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,50:013220,100:0b3d2e&height=100&section=footer&fontColor=C9A227"/>
 
 **⭐ If my dashboards or insights inspire you — a star means a lot!**
 
