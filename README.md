@@ -112,20 +112,16 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=chartreuse-dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&text_color=E8D9A0&bg_color=0a0a0a&hide_border=false&cache_seconds=1800"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tarunp032&label=Public%20Repos&query=public_repos&color=D4AF37&style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=D4AF37)
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&langs_count=6&theme=chartreuse-dark&border_color=D4AF37&title_color=D4AF37&text_color=E8D9A0&bg_color=0a0a0a&hide_border=false&cache_seconds=1800"/>
+![Followers](https://img.shields.io/github/followers/tarunp032?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0a0a0a&logo=github&logoColor=D4AF37)
+&nbsp;
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tarunp032&label=Joined&query=created_at&color=D4AF37&style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=D4AF37)
 
 </div>
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=tarunp032&theme=dark&background=0A0A0A&border=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8D9A0&currStreakNum=E8D9A0&sideNums=E8D9A0&dates=8B8B8B&hide_border=false" />
-
-</div>
-
-<div align="center">
-<sub>⚠️ If a card above doesn't load, it's a temporary rate-limit on the free stats server — refresh the page or wait a minute; it's not an issue with the README itself.</sub>
+<sub>ℹ️ The classic stats/top-languages/streak cards are left out on purpose — the public server that generates them (github-readme-stats.vercel.app) has been unreliably down since late 2025 across many profiles, not just this one. The badges above use GitHub's own API instead, so they'll always load.</sub>
 </div>
 
 <div align="center">
