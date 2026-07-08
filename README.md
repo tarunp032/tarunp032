@@ -152,7 +152,6 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-013220?style=for-the-badge&logo=linkedin&logoColor=C9A227)](https://linkedin.com/in/tarun-prajapat-468298253)
 [![Twitter](https://img.shields.io/badge/Twitter-013220?style=for-the-badge&logo=twitter&logoColor=C9A227)](https://twitter.com/tarunprajapat32)
 [![Instagram](https://img.shields.io/badge/Instagram-013220?style=for-the-badge&logo=instagram&logoColor=C9A227)](https://instagram.com/tarunp_032)
-[![LeetCode](https://img.shields.io/badge/LeetCode-013220?style=for-the-badge&logo=leetcode&logoColor=C9A227)](https://www.leetcode.com/tarun032)
 [![Gmail](https://img.shields.io/badge/Gmail-013220?style=for-the-badge&logo=gmail&logoColor=C9A227)](mailto:prajapattarun7568@gmail.com)
 
 </div>
