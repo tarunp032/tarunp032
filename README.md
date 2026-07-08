@@ -120,12 +120,6 @@ Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, D
 
 </div>
 
-<div align="center">
-<sub>ℹ️ The classic stats/top-languages/streak cards are left out on purpose — the public server that generates them (github-readme-stats.vercel.app) has been unreliably down since late 2025 across many profiles, not just this one. The badges above use GitHub's own API instead, so they'll always load.</sub>
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunp032&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=E8D9A0&area=true&hide_border=false&border_color=D4AF37)
 
 </div>
