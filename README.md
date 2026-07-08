@@ -1,151 +1,116 @@
-<div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tarun%20Prajapat&fontSize=68&color=0:000000,50:1a1a2e,100:0a0a0a&fontColor=D4AF37&stroke=D4AF37&strokeWidth=1&animation=fadeIn&fontAlignY=60&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=80&descColor=E8D9A0"/>
+# Tarun Prajapat
 
-</div>
+> **Premium GitHub Profile README (Starter Edition)**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=false&width=650&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;Dashboards+that+Tell+a+Story+%F0%9F%93%88;Business+Insight+%2B+Data+Precision+%E2%9C%A8;Currently+Learning+Python+%F0%9F%90%8D)](https://git.io/typing-svg)
-
-</div>
+> **Note:** This is a polished, production-ready starter. You can continue expanding it with additional projects over time.
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tarunp032&label=Profile+Views&color=D4AF37&style=for-the-badge&labelColor=0a0a0a)](https://github.com/tarunp032)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/tarunp032?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0a0a0a&logo=github&logoColor=D4AF37)](https://github.com/tarunp032)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Tarun%20Prajapat&fontSize=68&color=0:000000,50:111827,100:0a0a0a&fontColor=D4AF37&stroke=D4AF37&strokeWidth=1&animation=fadeIn&fontAlignY=58&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Power%20BI&descSize=18&descAlignY=78&descColor=F5E6A8"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Business+Decisions;Building+Dashboards+that+Tell+a+Story;Power+BI+%7C+SQL+%7C+Excel;Currently+Learning+Python)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tarunp032&label=Profile%20Views&color=D4AF37&style=for-the-badge&labelColor=0a0a0a)
+![Followers](https://img.shields.io/github/followers/tarunp032?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0a0a0a)
 
 </div>
 
-<br>
+---
 
-## ◈ &nbsp;About Me
+## ◈ About Me
 
 ```yaml
 Name        : Tarun Prajapat
 Role        : Business Analyst / Data Analyst
-Location    : India 🇮🇳
-Focus       : Turning messy data into clean business decisions
-Toolkit     : Excel · Power BI · Tableau · SQL · Jira · Figma
-Now Learning: Python 🐍 (starting today — for automation & analysis)
-Mindset     : Curious. Detail-obsessed. Insight-driven.
-Motto       : "Data doesn't speak until you ask it the right question."
-Contact     : prajapattarun7568@gmail.com
+Location    : India
+Focus       : Dashboards, KPI Reporting, Business Insights
+Skills      : Excel, SQL, Power BI, Tableau, Jira
+Learning    : Python
+Email       : prajapattarun7568@gmail.com
 ```
 
-<br>
+---
 
-## ◈ &nbsp;Analyst Toolkit
+## ◈ Tech Stack
 
-<div align="center">
+<p align="center">
 
-### ⬡ &nbsp;Data Visualization & BI
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=D4AF37"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37"/>
-
-### ⬡ &nbsp;Data & Query
-
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37"/>
-
-### ⬡ &nbsp;Process, Design & Delivery
-
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=scrumalliance&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Case%20Studies-000000?style=for-the-badge&logo=googledocs&logoColor=D4AF37"/>
 
-</div>
+</p>
 
-> 🐍 **Note:** Python is currently being learned to strengthen data automation, analysis, and reporting for Business Analytics — not yet applied in shipped projects.
+---
 
-<br>
+## ◈ Featured Projects
 
-## ◈ &nbsp;Featured Projects
+| Project | Description |
+|---------|-------------|
+| 📊 Executive Sales Dashboard | Power BI dashboard with KPI cards, DAX, Forecasting and Business Insights |
+| 📱 PhonePe Pulse Analytics Dashboard | Transaction analytics dashboard with Power BI and DAX |
+
+---
+
+## ◈ GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&theme=dark&hide_border=false&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&text_color=F5E6A8&bg_color=0A0A0A"/>
 
-### 📊 Executive Sales Dashboard
-**Power BI · DAX · Forecasting**
-
-Executive-level Sales Dashboard with DAX measures, KPI analysis, interactive visualizations, business insights, and 15-day sales forecasting on the SuperStore dataset.
-
-`Power BI` `DAX` `KPI` `Forecasting`
-
-[**→ View Repository**](https://github.com/tarunp032/Executive-Sales-Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 PhonePe Pulse Analytics Dashboard
-**Power BI · DAX · Transaction Analytics**
-
-Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, DAX measures, custom tooltips, and deep business insights.
-
-`Power BI` `DAX` `Analytics` `Insights`
-
-[**→ View Repository**](https://github.com/tarunp032/PhonePe-Pulse-Analytics-Dashboard)
-
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&theme=dark&hide_border=false&border_color=D4AF37&title_color=D4AF37&text_color=F5E6A8&bg_color=0A0A0A"/>
 
 </div>
 
 <div align="center">
-<sub>More case studies and dashboards in progress — this section will keep growing 🚀</sub>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunp032&theme=github_dark"/>
+
 </div>
 
-<br>
+> Removed Activity Graph because it frequently breaks due to rate limits.
 
-## ◈ &nbsp;GitHub Analytics
+---
+
+## ◈ Current Learning
+
+```text
+Power BI            ██████████ 95%
+SQL                 █████████  90%
+Excel               █████████  90%
+Business Analysis   ████████   80%
+Python              ████       40%
+```
+
+---
+
+## ◈ Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/tarun-prajapat-468298253"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
+<a href="https://instagram.com/tarunp_032"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37"></a>
+<a href="https://twitter.com/tarunprajapat32"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=D4AF37"></a>
+<a href="mailto:prajapattarun7568@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37"></a>
+
+</p>
+
+---
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tarunp032&label=Public%20Repos&query=public_repos&color=D4AF37&style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=D4AF37)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/tarunp032?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0a0a0a&logo=github&logoColor=D4AF37)
-&nbsp;
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tarunp032&label=Joined&query=created_at&color=D4AF37&style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=D4AF37)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:000000&height=120&section=footer"/>
 
-</div>
+### ⭐ Thanks for visiting my profile!
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunp032&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=E8D9A0&area=true&hide_border=false&border_color=D4AF37)
-
-</div>
-
-<br>
-
-## ◈ &nbsp;Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/tarun-prajapat-468298253)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=D4AF37)](https://twitter.com/tarunprajapat32)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/tarunp_032)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=D4AF37)](https://www.leetcode.com/tarun032)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:prajapattarun7568@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:000000&height=100&section=footer&fontColor=D4AF37"/>
-
-**⭐ If my dashboards or insights inspire you — a star means a lot!**
-
-*Made with* 🖤 *in India &nbsp;·&nbsp; Precision in data, clarity in insight*
+**Precision in Data · Clarity in Insight**
 
 </div>
