@@ -88,6 +88,19 @@ Contact     : prajapattarun7568@gmail.com
 <tr>
 <td width="50%" valign="top">
 
+### 🌍 GlobalMart Sales Analytics Dashboard
+**MySQL · Excel · Power BI · SQL · DAX**
+
+Enterprise-scale end-to-end Sales Analytics project featuring **100,000+ sales records**, relational database design, SQL business analysis, Power Query transformations, DAX KPIs, interactive dashboards, executive reporting, and actionable business insights.
+
+`MySQL` `SQL` `Excel` `Power BI` `DAX` `Business Analytics`
+
+[**→ View Repository**](https://github.com/tarunp032/GlobalMart-Sales-Analytics)
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 📊 Executive Sales Dashboard
 **Power BI · DAX · Forecasting**
 
@@ -98,25 +111,29 @@ Executive-level Sales Dashboard with DAX measures, KPI analysis, interactive vis
 [**→ View Repository**](https://github.com/tarunp032/Executive-Sales-Dashboard)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ### 📱 PhonePe Pulse Analytics Dashboard
 **Power BI · DAX · Transaction Analytics**
 
-Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, DAX measures, custom tooltips, and deep business insights.
+Interactive dashboard analyzing PhonePe Pulse transaction data with KPI cards, DAX measures, custom tooltips, and business insights through interactive visualizations.
 
-`Power BI` `DAX` `Analytics` `Insights`
+`Power BI` `DAX` `Analytics` `Business Intelligence`
 
 [**→ View Repository**](https://github.com/tarunp032/PhonePe-Pulse-Analytics-Dashboard)
 
 </td>
 </tr>
+
 </table>
 
 </div>
 
 <div align="center">
-<sub>More case studies and dashboards in progress — this section will keep growing 🚀</sub>
+<sub>🚀 More enterprise dashboards, business case studies, and analytics projects coming soon.</sub>
 </div>
 
 <br>
