@@ -324,23 +324,39 @@ The dashboard includes KPI cards, custom tooltips, state-level insights and inte
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://github.com/tarunp032?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tarunp032&label=PUBLIC%20REPOSITORIES&query=public_repos&style=for-the-badge&color=7C3AED&labelColor=0F172A&logo=github&logoColor=FFFFFF" alt="Public Repositories"/>
+</a>
 
-<td width="50%" align="center">
+&nbsp;
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tarunp032&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0&bg_color=0F172A&rank_icon=github" alt="Tarun Prajapat GitHub Statistics"/>
+<a href="https://github.com/tarunp032?tab=followers">
+<img src="https://img.shields.io/github/followers/tarunp032?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=0F172A&logo=github&logoColor=FFFFFF" alt="GitHub Followers"/>
+</a>
 
-</td>
+&nbsp;
 
-<td width="50%" align="center">
+<a href="https://github.com/tarunp032">
+<img src="https://komarev.com/ghpvc/?username=tarunp032&label=PROFILE%20VIEWS&style=for-the-badge&color=0891B2&labelColor=0F172A" alt="Profile Views"/>
+</a>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunp032&layout=compact&hide_border=true&title_color=38BDF8&text_color=E2E8F0&bg_color=0F172A&langs_count=8" alt="Tarun Prajapat Most Used Languages"/>
+<br><br>
 
-</td>
+<a href="https://github.com/tarunp032/GlobalMart-Sales-Analytics">
+<img src="https://img.shields.io/github/stars/tarunp032/GlobalMart-Sales-Analytics?label=GlobalMart%20Stars&style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github&logoColor=FFFFFF" alt="GlobalMart Repository Stars"/>
+</a>
 
-</tr>
-</table>
+<a href="https://github.com/tarunp032/Executive-Sales-Dashboard">
+<img src="https://img.shields.io/github/stars/tarunp032/Executive-Sales-Dashboard?label=Sales%20Dashboard%20Stars&style=for-the-badge&color=2563EB&labelColor=0F172A&logo=github&logoColor=FFFFFF" alt="Executive Sales Dashboard Stars"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Live repository metrics powered directly by GitHub.</sub>
 
 </div>
 
