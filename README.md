@@ -203,7 +203,7 @@ The project demonstrates the complete analytics lifecycle—from dataset generat
 <img src="https://img.shields.io/badge/Executive%20Reporting-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Executive Reporting"/>
 <br><br>
 
-🔗 Explore Flagship Project →
+<a href="https://github.com/tarunp032/GlobalMart-Sales-Analytics"><b>🔗 Explore Flagship Project →</b></a>
 
 </td>
 </tr>
@@ -225,7 +225,7 @@ The project covers the full analytics workflow — data processing in Python, re
 <img src="https://img.shields.io/badge/Default%20Recovery%20Insights-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Default Recovery Insights"/>
 <br><br>
 
-🔗 Explore Banking Analytics Project →
+<a href="https://github.com/tarunp032/Enterprise_Banking_Loan_Analytics_Dashboard"><b>🔗 Explore Banking Analytics Project →</b></a>
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ Power BI DAX KPI Analysis Forecasting
 
 <br><br>
 
-🔗 View Repository →
+<a href="https://github.com/tarunp032/Executive-Sales-Dashboard"><b>🔗 View Repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -261,7 +261,7 @@ Power BI DAX Transaction Analytics Business Intelligence
 
 <br><br>
 
-🔗 View Repository →
+<a href="https://github.com/tarunp032/PhonePe-Pulse-Analytics-Dashboard"><b>🔗 View Repository →</b></a>
 
 </td>
 </tr>
