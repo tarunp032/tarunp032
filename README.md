@@ -203,7 +203,7 @@ The project demonstrates the complete analytics lifecycle—from dataset generat
 <img src="https://img.shields.io/badge/Executive%20Reporting-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Executive Reporting"/>
 <br><br>
 
-Show Image
+🔗 Explore Flagship Project →
 
 </td>
 </tr>
@@ -225,7 +225,7 @@ The project covers the full analytics workflow — data processing in Python, re
 <img src="https://img.shields.io/badge/Default%20Recovery%20Insights-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Default Recovery Insights"/>
 <br><br>
 
-Show Image
+🔗 Explore Banking Analytics Project →
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ Power BI DAX KPI Analysis Forecasting
 
 <br><br>
 
-Show Image
+🔗 View Repository →
 
 </td>
 <td width="50%" valign="top">
@@ -261,7 +261,7 @@ Power BI DAX Transaction Analytics Business Intelligence
 
 <br><br>
 
-Show Image
+🔗 View Repository →
 
 </td>
 </tr>
@@ -275,7 +275,6 @@ Show Image
 <div align="center">
 <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:6366F1,100:A855F7"/>
 </div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
