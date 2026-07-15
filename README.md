@@ -181,103 +181,99 @@ Understanding requirements, documenting business processes and connecting stakeh
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FEATURED PROJECTS                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ◆ Featured Projects
+◆ Featured Projects
 
 <div align="center">
-
 <table>
-
 <tr>
-
 <td colspan="2" align="center" valign="top">
+🌍 GlobalMart Sales Analytics
 
-### 🌍 GlobalMart Sales Analytics
+Flagship End-to-End Analytics Project
 
-#### Flagship End-to-End Analytics Project
+MySQL · SQL · Excel · Power BI · Power Query · DAX
 
-**MySQL · SQL · Excel · Power BI · Power Query · DAX**
-
-End-to-end enterprise Sales Analytics solution developed using a synthetic business dataset containing more than **100,000 sales records**.
+End-to-end enterprise Sales Analytics solution developed using a synthetic business dataset containing more than 100,000 sales records.
 
 The project demonstrates the complete analytics lifecycle—from dataset generation and relational database design to SQL business analysis, Power Query transformation, DAX KPI development, interactive Power BI dashboards and executive-level reporting.
 
 <br>
-
 <img src="https://img.shields.io/badge/100K%2B%20Sales%20Records-0F172A?style=flat-square&logo=databricks&logoColor=38BDF8" alt="100K Sales Records"/>
 <img src="https://img.shields.io/badge/End--to--End%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=8B5CF6" alt="End-to-End Analytics"/>
 <img src="https://img.shields.io/badge/Executive%20Reporting-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Executive Reporting"/>
-
 <br><br>
 
-[![Explore Flagship Project](https://img.shields.io/badge/EXPLORE%20FLAGSHIP%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/tarunp032/GlobalMart-Sales-Analytics)
+Show Image
 
 </td>
-
 </tr>
-
 <tr>
+<td colspan="2" align="center" valign="top">
+🏦 Enterprise Banking Loan Analytics Dashboard
 
+Major Analytics Project
+
+Python · MySQL · SQL · Power BI
+
+Enterprise-grade Banking Loan Analytics solution built to analyze loan approvals, customer risk profiling, collections performance, and default recovery trends.
+
+The project covers the full analytics workflow — data processing in Python, relational data modeling in MySQL, SQL-driven business analysis, and an interactive Power BI dashboard delivering risk and recovery insights for decision-makers.
+
+<br>
+<img src="https://img.shields.io/badge/Loan%20Approval%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=38BDF8" alt="Loan Approval Analytics"/>
+<img src="https://img.shields.io/badge/Customer%20Risk%20Profiling-0F172A?style=flat-square&logo=shieldsdotio&logoColor=8B5CF6" alt="Customer Risk Profiling"/>
+<img src="https://img.shields.io/badge/Default%20Recovery%20Insights-0F172A?style=flat-square&logo=powerbi&logoColor=22D3EE" alt="Default Recovery Insights"/>
+<br><br>
+
+Show Image
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+📊 Executive Sales Dashboard
 
-### 📊 Executive Sales Dashboard
-
-**Power BI · DAX · Forecasting**
+Power BI · DAX · Forecasting
 
 Executive-level dashboard built using the SuperStore dataset to monitor sales, revenue, profitability, regional performance and product performance.
 
 The solution includes interactive filters, KPI monitoring, business insights and a 15-day sales forecast.
 
 <br>
-
-`Power BI` `DAX` `KPI Analysis` `Forecasting`
+Power BI DAX KPI Analysis Forecasting
 
 <br><br>
 
-[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/tarunp032/Executive-Sales-Dashboard)
+Show Image
 
 </td>
-
 <td width="50%" valign="top">
+📱 PhonePe Pulse Analytics
 
-### 📱 PhonePe Pulse Analytics
-
-**Power BI · DAX · Transaction Analytics**
+Power BI · DAX · Transaction Analytics
 
 Interactive Power BI dashboard developed to analyze transaction value, transaction volume, payment status, service types and regional performance.
 
 The dashboard includes KPI cards, custom tooltips, state-level insights and interactive business reporting.
 
 <br>
-
-`Power BI` `DAX` `Transaction Analytics` `Business Intelligence`
+Power BI DAX Transaction Analytics Business Intelligence
 
 <br><br>
 
-[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/tarunp032/PhonePe-Pulse-Analytics-Dashboard)
+Show Image
 
 </td>
-
 </tr>
-
 </table>
-
 </div>
-
 <div align="center">
-
 <br>
-
 <sub>More enterprise dashboards, analytics case studies and business intelligence projects are currently in development.</sub>
-
 </div>
-
 <br>
-
 <div align="center">
-
 <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:6366F1,100:A855F7"/>
-
 </div>
 
 <br>
